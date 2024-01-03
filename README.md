@@ -9,3 +9,4 @@ Weather Icon Representation: The weather icon changes based on the main weather 
 Dependencies
 This app utilizes the OpenWeatherMap API to retrieve weather data.
 
+![alt text](https://github.com/GirindraDA/Weather-App/blob/main/images/weather_show.png?raw=true)
